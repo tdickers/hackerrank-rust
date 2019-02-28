@@ -1,0 +1,6 @@
+[package]
+name = "square-subsequences"
+version = "0.1.0"
+authors = ["Tai Dickerson <tdickers@akamai.com>"]
+
+[dependencies]
